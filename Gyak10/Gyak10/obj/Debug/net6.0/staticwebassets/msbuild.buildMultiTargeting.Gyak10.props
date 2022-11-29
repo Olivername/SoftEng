@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Gyak10.props" />
+</Project>
